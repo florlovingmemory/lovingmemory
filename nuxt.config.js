@@ -2,6 +2,12 @@ const name = 'Flor Q'
 const dates = '[Placeholder] - October 29th, 2021'
 
 export default {
+  
+  //static link prefix
+  router: {
+    base: '/app/'
+  }
+  
   publicRuntimeConfig: {
     name: name,
     dates: dates
