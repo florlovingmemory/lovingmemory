@@ -5,7 +5,7 @@ export default {
   
   //static link prefix
   router: {
-    base: '/app/'
+    base: '/lovingmemory/'
   }
   
   publicRuntimeConfig: {
