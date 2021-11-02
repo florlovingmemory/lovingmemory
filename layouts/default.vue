@@ -7,7 +7,7 @@
 <style lang="scss">
 $highlight: #f41b8e;
 $highlightmuted: #f41b8ed9;
-$background: #2b3143;
+$background: #bfbff2;
 
 html {
   font-family: 'Lato', sans-serif;
@@ -247,6 +247,7 @@ ul {
 }
 
 .subtitle {
+  font-family: 'Didot', serif;
   font-weight: 300;
   font-size: 14px;
   color: #adb4c7;
