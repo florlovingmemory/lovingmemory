@@ -1,5 +1,5 @@
-const name = 'Flor Q'
-const dates = '[Placeholder] - October 29th, 2021'
+const name = 'Flor Quintero'
+const dates = 'February 3rd, 1973 - October 28th, 2021'
 
 export default {
   
