@@ -247,10 +247,10 @@ ul {
 }
 
 .subtitle {
-  font-family: 'Didot', serif;
+  font-family: 'Georgia', serif;
   font-weight: 300;
   font-size: 14px;
-  color: #adb4c7;
+  color: #FFFFFF;
   margin: 40px 0;
   @media screen and (max-width: 800px) {
     margin: 25px 0;
