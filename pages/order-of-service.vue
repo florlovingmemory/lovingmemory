@@ -6,7 +6,7 @@
     <div class="section details">
       <h1 class="title">Obituary</h1>
       <p><em>[PLACEHOLDER DATE]</em> [PLACEHOLDER TEXT FOR OBITUARY SUMMARY]</p>
-      <--! COMMENT
+      /*<--! COMMENT
       <h2>Church Service <span>10:30am</span></h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 10:30am at Church Address</ListItem>
@@ -34,7 +34,7 @@
         <ListItem>Closing prayer &amp; Grace blessing</ListItem>
         <ListItem>Exit music: New Wine</ListItem>
       </ul>
-      COMMENT END-->
+      COMMENT END-->*/
     </div>
   </div>
 </template>
