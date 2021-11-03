@@ -5,8 +5,8 @@
 </template>
 
 <style lang="scss">
-$highlight: #f41b8e;
-$highlightmuted: #f41b8ed9;
+$highlight: #9595e9;
+$highlightmuted: #8080e5;
 $background: #bfbff2;
 
 html {
@@ -77,7 +77,7 @@ html {
       left: 0;
       width: 100%;
       height: 80px!important;
-      background: #1e2333d9;
+      background: #bfbff2;
       padding-bottom: 0px!important;
       z-index: 2;
       backdrop-filter: blur(5px);
@@ -247,7 +247,7 @@ ul {
 }
 
 .subtitle {
-  font-family: 'Georgia', serif;
+  font-family: 'Athelas','Georgia', serif;
   font-weight: 300;
   font-size: 14px;
   color: #FFFFFF;
