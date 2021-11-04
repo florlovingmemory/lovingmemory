@@ -237,17 +237,15 @@ ul {
   font-weight: 300;
 }
 .name {
-  font-size: 40px;
+  font-size: 50px;
   color: #fff;
   font-weight: 300;
 }
 .newtitle{
   font-family: 'Athelas','Georgia', serif;
   display: block;
-  font-weight: 300;
-  font-size: 40px;
+  font-size: 24px;
   color: #35495e;
-  letter-spacing: 1px;
   margin: 40px 0;
   color: #fff;
  @media screen and (max-width: 800px) {
