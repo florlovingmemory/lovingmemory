@@ -244,6 +244,7 @@ ul {
 }
 .newtitle{
   font-family: 'Athelas','Georgia', serif;
+  font-weight: 300;
   display: block;
   font-size: 24px;
   color: #35495e;
