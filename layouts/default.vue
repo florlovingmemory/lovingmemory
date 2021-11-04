@@ -242,6 +242,7 @@ ul {
   font-weight: 300;
 }
 .newtitle{
+  font-family: 'Athelas','Georgia', serif;
   display: block;
   font-weight: 300;
   font-size: 50px;
