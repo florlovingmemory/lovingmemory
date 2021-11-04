@@ -1,1 +1,0 @@
-window.__NUXT__={staticAssetsBase:"\u002Flovingmemory\u002F_nuxt\u002Fstatic\u002F1635989042",layout:"default",error:null,serverRendered:true,routePath:"\u002Flive-stream",config:{name:"Flor Quintero",dates:"February 3rd, 1973 - October 28th, 2021"}};
