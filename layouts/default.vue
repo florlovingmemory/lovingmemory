@@ -169,6 +169,7 @@ html {
     }
     .newtitle{
       margin: 0px 0 25px;
+      font-size: 24px;
       font-family: 'Athelas','Georgia', serif;
     }
     h2 {
@@ -232,7 +233,7 @@ ul {
 }
 .newname {
   font-family: 'Pinyon Script', cursive;
-  font-size: 50px;
+  font-size: 56px;
   color: #fff;
   font-weight: 300;
 }
