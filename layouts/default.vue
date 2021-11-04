@@ -232,7 +232,7 @@ ul {
 }
 .newname {
   font-family: 'Pinyon Script', cursive;
-  font-size: 40px;
+  font-size: 50px;
   color: #fff;
   font-weight: 300;
 }
@@ -245,7 +245,7 @@ ul {
   font-family: 'Athelas','Georgia', serif;
   display: block;
   font-weight: 300;
-  font-size: 50px;
+  font-size: 40px;
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
