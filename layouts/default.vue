@@ -167,6 +167,10 @@ html {
     .title {
       margin: 0px 0 25px;
     }
+    .newtitle{
+      margin: 0px 0 25px;
+      font-family: 'Athelas','Georgia', serif;
+    }
     h2 {
       margin: 40px 0 5px;
       align-items: center;
@@ -226,11 +230,30 @@ ul {
     font-weight: 400;
   }
 }
+.newname {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 40px;
+  color: #fff;
+  font-weight: 300;
+}
 .name {
   font-size: 40px;
   color: #fff;
   font-weight: 300;
 }
+.newtitle{
+  display: block;
+  font-weight: 300;
+  font-size: 50px;
+  color: #35495e;
+  letter-spacing: 1px;
+  margin: 40px 0;
+  color: #fff;
+ @media screen and (max-width: 800px) {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+ }
 .title {
   font-family: 'Pinyon Script', cursive;
   display: block;
@@ -248,6 +271,16 @@ ul {
 
 .subtitle {
   font-family: 'Athelas','Georgia', serif;
+  font-weight: 300;
+  font-size: 14px;
+  color: #FFFFFF;
+  margin: 40px 0;
+  @media screen and (max-width: 800px) {
+    margin: 25px 0;
+  }
+}
+.newsubtitle {
+  font-family: 'Pinyon Script', cursive;
   font-weight: 300;
   font-size: 14px;
   color: #FFFFFF;
