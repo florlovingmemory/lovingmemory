@@ -232,12 +232,13 @@ ul {
   }
 }
 .newname {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Athelas','Georgia', serif;
   font-size: 56px;
   color: #fff;
   font-weight: 300;
 }
 .name {
+  font-family: 'Athelas','Georgia', serif;
   font-size: 50px;
   color: #fff;
   font-weight: 300;
@@ -256,7 +257,7 @@ ul {
   }
  }
 .title {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Athelas','Georgia', serif;
   display: block;
   font-weight: 300;
   font-size: 50px;
@@ -281,7 +282,7 @@ ul {
   }
 }
 .newsubtitle {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Athelas','Georgia', serif;
   font-weight: 300;
   font-size: 14px;
   color: #FFFFFF;
