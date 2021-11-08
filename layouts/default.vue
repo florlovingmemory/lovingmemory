@@ -10,7 +10,7 @@ $highlightmuted: #8080e5;
 $background: #bfbff2;
 
 html {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Times New Roman', serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
