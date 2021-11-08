@@ -4,9 +4,9 @@ const dates = 'February 3rd, 1973 - October 28th, 2021'
 export default {
   
   //static link prefix
-  router: {
-    base: '/lovingmemory/'
-  },
+  //router: {
+  //  base: '/lovingmemory/'
+  //},
   
   publicRuntimeConfig: {
     name: name,
