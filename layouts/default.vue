@@ -274,7 +274,7 @@ ul {
 .subtitle {
   font-family: 'Athelas','Georgia', serif;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 18px;
   color: #FFFFFF;
   margin: 40px 0;
   @media screen and (max-width: 800px) {
@@ -284,7 +284,7 @@ ul {
 .newsubtitle {
   font-family: 'Athelas','Georgia', serif;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 18px;
   color: #FFFFFF;
   margin: 40px 0;
   @media screen and (max-width: 800px) {
