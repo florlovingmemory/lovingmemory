@@ -13,6 +13,7 @@
 </p><p>Flor was a loving, single mother of five children. No matter how difficult times got, she was always there for her children and in her most difficult times her children were always by her side. Through her perseverance, she always made sure her children were happy, healthy and loved. Although her children kept her busy, she was a proud servant to Jehovah. She cherished her time in the ministry with her fellow brothers and sisters. She loved to read the bible, show others the teachings of Jehovah, and she always prayed for the well-being of others. Her influence will forever remain in the lives of all who knew her.
  
 </p><p>Flor was a wonderful Mother, Aunt, Grandmother, Sister, Daughter and best friend. She will forever be cherished by her children: Fernando, Miguel, Javier, Jennifer and Jessica, her grandsons: Isaiah and Elijah, and her loyal dog, Juni.</p>
+      <p></p>
       <h1 class="title">Obituario</h1>
       <p>Florencia Quintero Rufino, de 48 años, de Hicksville Nueva York, falleció el jueves 28 de Octubre de 2021, rodeada de sus queridos hijos.
 </p><p>Flor Nació el 3de Febrero de 1973 en El Rincón, Guerrero México. La primera hija de ocho nacidos de parte de Gumercindo y Altagracia Quintero. Era una amorosa y cariñosa hermana para todos sus hermanos: José, Doris, María, Elvira, Carmen, Rigo y Junior. A pesar de su gran familia, siempre hizo tiempo para todos. Le encantaba pasar tiempo con ellos, y siempre apreciaba los maravillosos recuerdos que hacían juntos.
