@@ -5,10 +5,21 @@
     </div>
     <div class="section details">
       <h1 class="title">Service Livestream</h1>
-      <p>As attendance is restricted due to COVID-19 we hope that you will join us virtually. The services will be held on Sunday, November 14th 2021. Please check back on November 14, 2021 for the zoom link.</p>
+      <p>Memorial Talk in Memory of Flor Quintero</p>
+      <p>Date: Sunday November 14, 2021<br>
+      Time: 2:30 PM</p>
+      <p>Link:<br>
+      <a href="https://us02web.zoom.us/j/89968145478?pwd=OUtWM0ZTK25rbWM2cmRMeC8rSXV3dz09">https://us02web.zoom.us/j/89968145478?pwd=OUtWM0ZTK25rbWM2cmRMeC8rSXV3dz09</a></p>
+      <p>ID: 899 6814 5478<br>
+      Password: flor7 </p>
       <h1 class="title">Servicio en vivo</h1>
-      <p>Como la asistencia está restringida debido a COVID-19, esperamos que se una a nosotros virtualmente. Los servicios se llevarán a cabo el domingo 14 de noviembre de 2021. Por favor vuelva a consultar el 14 de noviembre de 2021 para ver el enlace de zoom.
-</p>
+      <p>Discurso en memoria de Flor Quintero</p>
+      <p>Date: Sunday November 14, 2021<br>
+      Time: 2:30 PM</p>
+      <p>Link:<br>
+      <a href="https://us02web.zoom.us/j/89968145478?pwd=OUtWM0ZTK25rbWM2cmRMeC8rSXV3dz09">https://us02web.zoom.us/j/89968145478?pwd=OUtWM0ZTK25rbWM2cmRMeC8rSXV3dz09</a></p>
+      <p>ID: 899 6814 5478<br>
+      Password: flor7 </p>
     </div>
   </div>
 </template>
